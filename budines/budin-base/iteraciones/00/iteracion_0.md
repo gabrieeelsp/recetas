@@ -1,42 +1,49 @@
-# Iteración 0 – Receta Base
+# Iteracion 0 - Receta Base
 
-## 🎯 Objetivo
-Establecer punto de referencia
+## Objetivo
+Establecer un punto de referencia confiable para medir volumen, humedad, miga y sabor.
 
----
+## Cambios aplicados
+- Ninguno. Se cocina la receta base sin modificaciones.
 
-## 🔧 Cambios aplicados
-- Ninguno (receta base)
+## Condiciones de prueba
+- Fecha:
+- Temperatura ambiente:
+- Tipo de horno:
+- Molde usado:
+- Tiempo real de coccion:
 
----
-
-## 📊 Resultado
+## Resultado
 
 ### Estructura
-- Altura:
+- Altura final:
+- Grieta superior:
 - Miga:
 
 ### Humedad
-- 
+- Centro:
+- Bordes:
+- Evolucion a las 24 h:
 
 ### Sabor
+- Dulzor:
+- Intensidad a manteca y vainilla:
+- Balance general:
+
+### Observaciones durante el proceso
+- Textura de la mezcla:
+- Comportamiento en horno:
+- Desmolde y enfriado:
+
+## Problemas detectados
 - 
 
-### Observaciones
-- 
-- 
+## Conclusion
+- La iteracion 0 define el piso de comparacion para todas las siguientes pruebas.
 
----
+## Decision
+- Mantener esta version como control.
 
-## ⚠️ Problemas detectados
-- 
-
----
-
-## 🧠 Conclusión
-- 
-
----
-
-## 🔁 Próxima iteración
-- Ajustar humedad (evaluar uso de aceite o más líquido)
+## Proxima iteracion
+- Elegir una sola variable a modificar.
+- Prioridades sugeridas: humedad, volumen o intensidad de sabor.

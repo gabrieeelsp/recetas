@@ -1,10 +1,11 @@
-# Iteracion X - [Nombre]
+# Iteracion 1 - Mas humedad
 
 ## Objetivo
-Que variable se quiso mejorar y cual era la hipotesis.
+Evaluar si el reemplazo parcial de manteca por aceite mejora la humedad percibida, sobre todo a las 24 horas.
 
 ## Cambios aplicados
-- 
+- Se reemplazaron 30 g de manteca por 30 ml de aceite neutro.
+- No se modificaron harina, huevos, azucar, leudante, leche ni temperatura de horno.
 
 ## Condiciones de prueba
 - Fecha:
@@ -39,12 +40,11 @@ Que variable se quiso mejorar y cual era la hipotesis.
 - 
 
 ## Conclusion
-- Que mejoro respecto de la iteracion anterior.
-- Que empeoro o quedo igual.
+- Comparar directamente contra la iteracion 0 en humedad, ternura y sabor.
 
 ## Decision
 - Repetir tal cual / descartar / ajustar.
 
 ## Proxima iteracion
-- Cambiar una sola variable concreta.
-- Explicar que esperas que pase.
+- Si mejora la humedad sin perder volumen, evaluar un ajuste fino del porcentaje de aceite.
+- Si pierde estructura, volver a la proporcion de grasa base y probar otra via de humectacion.
